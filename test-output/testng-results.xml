@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-04T19:28:11 IST" name="Default suite" finished-at="2023-03-04T19:28:14 IST" duration-ms="2192">
+    <groups>
+    </groups>
+    <test started-at="2023-03-04T19:28:11 IST" name="Default test" finished-at="2023-03-04T19:28:14 IST" duration-ms="2192">
+      <class name="DynamicJsonParam">
+        <test-method signature="updateBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJsonParam@378542de]" started-at="2023-03-04T19:28:11 IST" name="updateBook" data-provider="BooksData" finished-at="2023-03-04T19:28:13 IST" duration-ms="1628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bcda]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+        <test-method signature="updateBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJsonParam@378542de]" started-at="2023-03-04T19:28:13 IST" name="updateBook" data-provider="BooksData" finished-at="2023-03-04T19:28:13 IST" duration-ms="269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dfc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[453]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+        <test-method signature="updateBook(java.lang.String,java.lang.String)[pri:0, instance:DynamicJsonParam@378542de]" started-at="2023-03-04T19:28:13 IST" name="updateBook" data-provider="BooksData" finished-at="2023-03-04T19:28:14 IST" duration-ms="271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gfd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[987]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBook -->
+      </class> <!-- DynamicJsonParam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
