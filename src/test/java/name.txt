@@ -2,8 +2,6 @@ a
 b
 c
 d
-e
-f
 I am from new update
 This is updated code
 I have updated code
